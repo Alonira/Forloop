@@ -16,7 +16,7 @@ if(number > 0){
 
 
 const fruits = "apple";
-if (fruits = "apple"){
+if (fruits === "apple"){
  console.log("it is an apple")
 }else{
  console.log("it is not an apple")
